@@ -40,9 +40,9 @@ const foundersList = [
 ];
 function FoundingMembers() {
   return (
-    <div class="min-h-screen bg-black mt-2 text-center p-3">
-      <h2 class="text-2xl font-bold m-3">The Founding Members</h2>
-      <div class="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-3 gap-1">
+    <div class="min-h-screen bg-white text-black mt-2 text-center p-3">
+      <h2 class="text-2xl font-bold m-3 text-gray-600">The Founding Members</h2>
+      <div class="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-9 gap-1">
         {foundersList.map((value,index) => (
             <div key={index}>
                 <Card image={value.image} name={value.name} />

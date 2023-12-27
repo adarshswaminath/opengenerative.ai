@@ -14,7 +14,7 @@ function Header() {
       <nav className="absolute top-0 left-0 right-0 p-2 flex items-center justify-between">
         <img src="/images/logo.png" alt="logo" className="h-[70px] w-[70px]" />
         <a href="#">
-          <button className="p-3 bg-blue-500 font-bold rounded-lg">
+          <button className="p-3 bg-blue-500 font-bold rounded-lg text-white">
             Join Community
           </button>
         </a>
@@ -29,7 +29,7 @@ function Header() {
             </span>{" "}
             AI Community!
           </h2>
-          <p className="text-center mt-2 font-medium">
+          <p className="text-center mt-2 font-medium text-white">
             A collective of projects united by a common vision and goal.
           </p>
         </div>
