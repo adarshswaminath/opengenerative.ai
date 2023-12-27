@@ -1,1 +1,1 @@
-# opengenerative.ai
+# Opengenerative.ai
