@@ -1,0 +1,2189 @@
+[
+  {
+    "title": "BPP [$750]Arbitrary File Upload Vulnerability To Remote Code Execution (RCE) Outside the Platform.",
+    "reportedAt": "2024-12-26",
+    "authorName": "Tengku Arya Saputra",
+    "tags": "rce",
+    "link": "https://medium.com/@aryasec/bpp-750-arbitrary-file-upload-vulnerability-to-remote-code-execution-rce-outside-the-platform-9093b51d044d",
+    "featured": false,
+    "claps": 180
+  },
+  {
+    "title": "The Silicon Valley Purple Team Blueprint 🟣",
+    "reportedAt": "2025-01-14",
+    "authorName": "System Weakness",
+    "tags": "red-team",
+    "link": "https://medium.com/system-weakness/the-silicon-valley-purple-team-blueprint-ca2ffe1545e7",
+    "featured": false,
+    "claps": 129
+  },
+  {
+    "title": "The Road to CRTP: My Personal Journey",
+    "reportedAt": "2024-12-16",
+    "authorName": "Aayushpantha",
+    "tags": "red-team",
+    "link": "https://medium.com/@aayushpantha/the-road-to-crtp-my-personal-journey-495904b3f4e8",
+    "featured": false,
+    "claps": 215
+  },
+  {
+    "title": "Atomic Test Creation: Easiest with AtomicGen.io",
+    "reportedAt": "2024-11-30",
+    "authorName": "Detect FYI",
+    "tags": "red-team",
+    "link": "https://medium.com/detect-fyi/atomic-test-creation-easiest-with-atomicgen-io-a4a4ec8cd9a9",
+    "featured": false,
+    "claps": 121
+  },
+  {
+    "title": "Single Sign-On (SSO) Explained: Simplifying Authentication for Modern Applications",
+    "reportedAt": "2024-11-29",
+    "authorName": "System Weakness",
+    "tags": "oauth",
+    "link": "https://medium.com/system-weakness/single-sign-on-sso-explained-simplifying-authentication-for-modern-applications-e3465ce42dac",
+    "featured": false,
+    "claps": 357
+  },
+  {
+    "title": "OAuth vs. OpenID Connect: A Deep Dive for Senior Software Engineers",
+    "reportedAt": "2024-11-26",
+    "authorName": "Cubed",
+    "tags": "oauth",
+    "link": "https://medium.com/cub3d/oauth-vs-openid-connect-a-deep-dive-for-senior-software-engineers-e66263fd1ba4",
+    "featured": false,
+    "claps": 623
+  },
+  {
+    "title": "IDOR & UUIDs to leak PII",
+    "reportedAt": "2025-01-13",
+    "authorName": "CANITEY",
+    "tags": "idor",
+    "link": "https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784",
+    "featured": false,
+    "claps": 179
+  },
+  {
+    "title": "How I Found a Critical Vulnerability and Earned $4,000 in Bug Bounty Hunting",
+    "reportedAt": "2024-12-08",
+    "authorName": "zack0x01",
+    "tags": "idor",
+    "link": "https://medium.com/@zack0x01_/how-i-found-a-critical-vulnerability-and-earned-4-000-in-bug-bounty-hunting-2ce4a1227fdc",
+    "featured": false,
+    "claps": 1700
+  },
+  {
+    "title": "How I found 4 IDORs in the same target",
+    "reportedAt": "2024-11-22",
+    "authorName": "Ahmed Hussein",
+    "tags": "idor",
+    "link": "https://medium.com/@Ahmed0x00/how-i-found-4-idors-in-the-same-target-73db8760a4be",
+    "featured": false,
+    "claps": 1000
+  },
+  {
+    "title": "How I Discovered Exposed .env Files on a Subdomain of a Popular Exam Proctoring Website",
+    "reportedAt": "2024-12-30",
+    "authorName": "Anonymousshetty",
+    "tags": "information-disclosure",
+    "link": "https://medium.com/@anonymousshetty2003/how-i-discovered-exposed-env-files-on-a-subdomain-of-a-popular-exam-proctoring-website-50f1847a9e59",
+    "featured": false,
+    "claps": 127
+  },
+  {
+    "title": "How i accidentally found a 1-click account takeover bug",
+    "reportedAt": "2024-12-26",
+    "authorName": "InfoSec Write-ups",
+    "tags": "account-takeover",
+    "link": "https://medium.com/bugbountywriteup/how-i-accidentally-found-a-1-click-account-takeover-bug-dd27a512dd22",
+    "featured": false,
+    "claps": 266
+  },
+  {
+    "title": "0-Click ATO: How I Can Take Over Every Account on the Website",
+    "reportedAt": "2024-11-26",
+    "authorName": "Som3a",
+    "tags": "account-takeover",
+    "link": "https://medium.com/@som3a/0-click-ato-how-i-can-take-over-every-account-on-the-website-9a69c9afb57c",
+    "featured": false,
+    "claps": 866
+  },
+  {
+    "title": "Zero-Click Account Takeover Through Response Manipulation",
+    "reportedAt": "2024-12-18",
+    "authorName": "Abdullah Ayman",
+    "tags": "account-takeover",
+    "link": "https://medium.com/@abdulluuuu/zero-click-account-takeover-through-response-manipulation-ee786a7a06dd",
+    "featured": false,
+    "claps": 295
+  },
+  {
+    "title": "⚠️ Spotting Data Annotation Scams: Red Flags to Watch Out For",
+    "reportedAt": "2025-01-03",
+    "authorName": "Radha Mittal",
+    "tags": "phishing",
+    "link": "https://medium.com/@radhamittal888/️-spotting-data-annotation-scams-red-flags-to-watch-out-for-5f7b75b9e625",
+    "featured": false,
+    "claps": 134
+  },
+  {
+    "title": "My Husband Fell for the Verizon Scam",
+    "reportedAt": "2024-12-19",
+    "authorName": "Read or Die!",
+    "tags": "phishing",
+    "link": "https://medium.com/read-or-die/my-husband-fell-for-the-verizon-scam-b16034599007",
+    "featured": false,
+    "claps": 466
+  },
+  {
+    "title": "Authentication Bypass via Response Manipulation",
+    "reportedAt": "2025-01-08",
+    "authorName": "Ahmed Salah",
+    "tags": "authentication-bypass",
+    "link": "https://medium.com/@AhmedSala7/authentication-bypass-via-response-manipulation-bf093f384cb8",
+    "featured": false,
+    "claps": 233
+  },
+  {
+    "title": "How I Earned Over 100 Points on HackerOne with Email Spoofing.",
+    "reportedAt": "2024-12-10",
+    "authorName": "Jonas Dias Rebelo",
+    "tags": "email-spoofing",
+    "link": "https://medium.com/@j0nasdias/how-i-earned-over-100-points-on-hackerone-with-email-spoofing-1ae0c4bc6aba",
+    "featured": false,
+    "claps": 156
+  },
+  {
+    "title": "🚨 URGENT: First PoC Exploit of 2025 Targets Critical Windows Vulnerability CVE-2024–49113 (“LDAP…",
+    "reportedAt": "2025-01-03",
+    "authorName": "CyferNest Sec",
+    "tags": "active-directory",
+    "link": "https://medium.com/@cyfernest/urgent-first-poc-exploit-of-2025-targets-critical-windows-vulnerability-cve-2024-49113-ldap-5f14fe37249a",
+    "featured": false,
+    "claps": 128
+  },
+  {
+    "title": "Top 10 Active Directory Attack Techniques to Gain Domain Admin",
+    "reportedAt": "2024-12-14",
+    "authorName": "Hossam Ehab",
+    "tags": "active-directory",
+    "link": "https://medium.com/@0xHossam/top-10-active-directory-attack-techniques-to-gain-domain-admin-a9e54089f5fc",
+    "featured": false,
+    "claps": 555
+  },
+  {
+    "title": "Setting Up an Active Directory Domain Controller",
+    "reportedAt": "2024-11-29",
+    "authorName": "System Weakness",
+    "tags": "active-directory",
+    "link": "https://medium.com/system-weakness/setting-up-an-active-directory-domain-controller-a14aca95ab74",
+    "featured": false,
+    "claps": 907
+  },
+  {
+    "title": "What is Active Directory? An Introduction to Directory Services",
+    "reportedAt": "2024-11-28",
+    "authorName": "System Weakness",
+    "tags": "active-directory",
+    "link": "https://medium.com/system-weakness/what-is-active-directory-an-introduction-to-directory-services-d0144b883696",
+    "featured": false,
+    "claps": 905
+  },
+  {
+    "title": "Top 10 Enterprise Technology Trends in 2025: Platform Engineering and AI Agents Lead the Charge…",
+    "reportedAt": "2024-12-31",
+    "authorName": "FAUN — Developer Community 🐾",
+    "tags": "graphql",
+    "link": "https://medium.com/faun/top-10-enterprise-technology-trends-in-2025-platform-engineering-and-ai-agents-lead-the-charge-1ff2a0f3bc11",
+    "featured": false,
+    "claps": 148
+  },
+  {
+    "title": "GraphQL in Android with Apollo Client",
+    "reportedAt": "2024-12-26",
+    "authorName": "Mukesh Rajput",
+    "tags": "graphql",
+    "link": "https://medium.com/@rajputmukesh748/graphql-in-android-with-apollo-client-4b33e2a2bfc9",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "🎉 My First Bounty of ₹₹₹ 🎉",
+    "reportedAt": "2024-12-06",
+    "authorName": "OSINT Team",
+    "tags": "password-reset",
+    "link": "https://medium.com/the-first-digit/my-first-bounty-of-37c2d40cbdd9",
+    "featured": false,
+    "claps": 226
+  },
+  {
+    "title": "How I was able to Sign Up at one of the Company Panels ? P3 $$$",
+    "reportedAt": "2025-01-04",
+    "authorName": "WHO AM I ?",
+    "tags": "broken-access-control",
+    "link": "https://medium.com/@19whoami19/how-i-was-able-to-sign-up-at-one-of-the-company-panels-p3-c824d76e36e9",
+    "featured": false,
+    "claps": 467
+  },
+  {
+    "title": "Command Injection: Mastering Exploitation Techniques with a Comprehensive Cheatsheet",
+    "reportedAt": "2024-12-01",
+    "authorName": "System Weakness",
+    "tags": "command-injection",
+    "link": "https://medium.com/system-weakness/command-injection-mastering-exploitation-techniques-with-a-comprehensive-cheatsheet-6f549fee46b8",
+    "featured": false,
+    "claps": 169
+  },
+  {
+    "title": "The Art of Blind Command Injection: Unlocking Internal Secrets 🎩",
+    "reportedAt": "2024-12-02",
+    "authorName": "InfoSec Write-ups",
+    "tags": "command-injection",
+    "link": "https://medium.com/bugbountywriteup/the-art-of-blind-command-injection-unlocking-internal-secrets-917daa755463",
+    "featured": false,
+    "claps": 182
+  },
+  {
+    "title": "From N/A to $$$: A Simple Python Script Led to Application-Level DoS",
+    "reportedAt": "2025-01-08",
+    "authorName": "Hashim Amin",
+    "tags": "privilege-escalation",
+    "link": "https://medium.com/@hashimamin/from-n-a-to-a-simple-python-script-led-to-application-level-dos-83a65f75b7dc",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "Linux for Pentester : ZIP Privilege Escalation",
+    "reportedAt": "2025-01-12",
+    "authorName": "Yahya Khan",
+    "tags": "privilege-escalation",
+    "link": "https://medium.com/@itzyahya03/linux-for-pentester-zip-privilege-escalation-4960374c72af",
+    "featured": false,
+    "claps": 147
+  },
+  {
+    "title": "Privilege Escalation via Impersonation Features feature",
+    "reportedAt": "2024-12-08",
+    "authorName": "Ahmed Tarek",
+    "tags": "privilege-escalation",
+    "link": "https://medium.com/@0x_xnum/privilege-escalation-via-impersonation-features-feature-c49cf3a3dc03",
+    "featured": false,
+    "claps": 580
+  },
+  {
+    "title": "How to Find Origin IP of any Website Behind a WAF",
+    "reportedAt": "2024-12-29",
+    "authorName": "InfoSec Write-ups",
+    "tags": "waf-bypass",
+    "link": "https://medium.com/bugbountywriteup/how-to-find-origin-ip-of-any-website-behind-a-waf-c85095156ef7",
+    "featured": false,
+    "claps": 275
+  },
+  {
+    "title": "Pills",
+    "reportedAt": "2024-12-24",
+    "authorName": "Sheridan Walter",
+    "tags": "dos",
+    "link": "https://medium.com/@drsheridanwalter/pills-0a050861fe21",
+    "featured": false,
+    "claps": 190
+  },
+  {
+    "title": "Why we use @bean In Springboot",
+    "reportedAt": "2024-12-31",
+    "authorName": "DevOps.dev",
+    "tags": "spring-boot",
+    "link": "https://medium.com/devops-dev/why-we-use-bean-in-springboot-4141e2a175d3",
+    "featured": false,
+    "claps": 399
+  },
+  {
+    "title": "Advanced Spring Boot Concepts Every Java Developer Should Master",
+    "reportedAt": "2024-12-08",
+    "authorName": "Arvind Kumar",
+    "tags": "spring-boot",
+    "link": "https://medium.com/@arvind4gl/advanced-spring-boot-concepts-every-java-developer-should-master-45cd90ef3e98",
+    "featured": false,
+    "claps": 584
+  },
+  {
+    "title": "The Best Way to Structure API Responses in Spring Boot",
+    "reportedAt": "2024-11-23",
+    "authorName": "Dulanjaya Sandaruwan",
+    "tags": "spring-boot",
+    "link": "https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab",
+    "featured": false,
+    "claps": 519
+  },
+  {
+    "title": "Generating and Downloading PDFs Using Spring Boot and Thymeleaf",
+    "reportedAt": "2025-01-02",
+    "authorName": "Towards Dev",
+    "tags": "spring-boot",
+    "link": "https://medium.com/towardsdev/generating-and-downloading-pdfs-using-spring-boot-and-thymeleaf-be7af5cdd578",
+    "featured": false,
+    "claps": 360
+  },
+  {
+    "title": "Building a Document Query System with Spring AI, PgVector, and Ollama",
+    "reportedAt": "2024-12-02",
+    "authorName": "Software Newspaper",
+    "tags": "spring-boot",
+    "link": "https://medium.com/software-newspaper/building-a-document-query-system-with-spring-ai-pgvector-and-ollama-dfafccad26c2",
+    "featured": false,
+    "claps": 126
+  },
+  {
+    "title": "The ‘SolarWinds’ of the LLM World",
+    "reportedAt": "2024-12-02",
+    "authorName": "AI Advances",
+    "tags": "supply-chain-attack",
+    "link": "https://medium.com/ai-advances/the-solarwinds-of-the-llm-world-144ef34ac04d",
+    "featured": false,
+    "claps": 328
+  },
+  {
+    "title": "Advent of Cyber 2024 [ Day 21 ] Writeup with Answers | TryHackMe Walkthrough",
+    "reportedAt": "2024-12-20",
+    "authorName": "Infosec Matrix",
+    "tags": "reverse-engineering",
+    "link": "https://medium.com/infosecmatrix/advent-of-cyber-2024-day-21-writeup-with-answers-tryhackme-walkthrough-00725dc0dba7",
+    "featured": false,
+    "claps": 720
+  },
+  {
+    "title": "How I was able to take over a Subdomain and got Hall of Fame",
+    "reportedAt": "2024-11-19",
+    "authorName": "T3CH",
+    "tags": "subdomain-takeover",
+    "link": "https://medium.com/h7w/how-i-was-able-to-take-over-a-subdomain-and-got-hall-of-fame-aca4aaca761b",
+    "featured": false,
+    "claps": 133
+  },
+  {
+    "title": "#8. Bug Bounty Series: Broken Link Hijacking Vulnerability | Hall of Fame",
+    "reportedAt": "2024-12-27",
+    "authorName": "Cyb3r M!nds",
+    "tags": "broken-link-hijacking",
+    "link": "https://medium.com/@cyb3rmind/8-bug-bounty-series-broken-link-hijacking-vulnerability-hall-of-fame-28deeccf1c8c",
+    "featured": false,
+    "claps": 123
+  },
+  {
+    "title": "How I Found a Broken Link Hijacking Vulnerability in 2 Minutes | 💰 $250 Bounty",
+    "reportedAt": "2024-12-13",
+    "authorName": "Abhijeet kumawat",
+    "tags": "broken-link-hijacking",
+    "link": "https://medium.com/@kumawatabhijeet2002/how-i-found-a-broken-link-hijacking-vulnerability-in-2-minutes-250-bounty-0d991eb9c61b",
+    "featured": false,
+    "claps": 166
+  },
+  {
+    "title": "The Ants in My Pants Rock The Party, But I Clear All The Madness, in B♭(flat) minor",
+    "reportedAt": "2024-11-23",
+    "authorName": "A Desabafo",
+    "tags": "social-engineering",
+    "link": "https://medium.com/the-desabafo/the-ants-in-my-pants-rock-the-party-but-i-clear-all-the-madness-in-b-flat-minor-abcc9939b566",
+    "featured": false,
+    "claps": 146
+  },
+  {
+    "title": "How I hacked my friend's Facebook, and he did mine! (Understanding Cookies)",
+    "reportedAt": "2024-11-22",
+    "authorName": "OSINT Team",
+    "tags": "session-hijacking",
+    "link": "https://medium.com/the-first-digit/how-i-hacked-my-friends-facebook-and-he-did-mine-understanding-cookies-f24ae0b65a1b",
+    "featured": false,
+    "claps": 127
+  },
+  {
+    "title": "I Got 99 Problems, But a Breach Ain’t One",
+    "reportedAt": "2024-12-22",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/bugbountywriteup/i-got-99-problems-but-a-breach-aint-one-1446ba45d2ca",
+    "featured": false,
+    "claps": 138
+  },
+  {
+    "title": "How i Hacked into NASA & got Hall-Of-Fame, Acknowledgement -2025",
+    "reportedAt": "2025-01-12",
+    "authorName": "Mehboob Khan",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@securityinsights/how-i-hacked-into-nasa-got-hall-of-fame-acknowledgement-2025-d22815f09e29",
+    "featured": false,
+    "claps": 196
+  },
+  {
+    "title": "This is How I Turned an Informative Bug into a Valid $500 Bug",
+    "reportedAt": "2025-01-14",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/bugbountywriteup/this-is-how-i-turned-an-informative-bug-into-a-valid-500-bug-174ffeb94737",
+    "featured": false,
+    "claps": 396
+  },
+  {
+    "title": "How nature holds the key to cybersecurity’s future",
+    "reportedAt": "2024-12-16",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/bugbountywriteup/how-nature-holds-the-key-to-cybersecuritys-future-b6fff5ad3c36",
+    "featured": false,
+    "claps": 174
+  },
+  {
+    "title": "Salt Typhoon",
+    "reportedAt": "2024-12-06",
+    "authorName": "Prof Bill Buchanan OBE FRSE",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@billatnapier/salt-typhoon-10d0ac7d9228",
+    "featured": false,
+    "claps": 167
+  },
+  {
+    "title": "The most effective method to Make Programming an Everyday Propensity",
+    "reportedAt": "2025-01-12",
+    "authorName": "Hina Khan.",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@hinnakhan2005/the-most-effective-method-to-make-programming-an-everyday-propensity-d2d87633fbf8",
+    "featured": false,
+    "claps": 876
+  },
+  {
+    "title": "How I Found This Crazy PII Data Leak Worth 500$",
+    "reportedAt": "2025-01-13",
+    "authorName": "Sahil Choudhary",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@sc128496/how-i-found-this-crazy-pii-data-leak-worth-500-e39d6dd19133",
+    "featured": false,
+    "claps": 180
+  },
+  {
+    "title": "RCE VIA S3-BUCKET",
+    "reportedAt": "2025-01-15",
+    "authorName": "2BM03Z",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@ahmed.moez2003/rce-via-s3-bucket-b64ed6d6af87",
+    "featured": false,
+    "claps": 286
+  },
+  {
+    "title": "How I Discovered an Email Disclosure Vulnerability",
+    "reportedAt": "2025-01-03",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/bugbountywriteup/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228",
+    "featured": false,
+    "claps": 305
+  },
+  {
+    "title": "How Improper cache storage lead to Make me $$$",
+    "reportedAt": "2025-01-13",
+    "authorName": "praveenarsh0xx0",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@test123cybertest/how-improper-cache-storage-lead-to-make-me-4de4c003b376",
+    "featured": false,
+    "claps": 125
+  },
+  {
+    "title": "The Nature and Impact of Cybercrime in the Digital Age",
+    "reportedAt": "2025-01-12",
+    "authorName": "Sardar Afaq",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@sardarafaq301/the-nature-and-impact-of-cybercrime-in-the-digital-age-d8edb4c9ea9d",
+    "featured": false,
+    "claps": 915
+  },
+  {
+    "title": "Dark Web",
+    "reportedAt": "2025-01-16",
+    "authorName": "Muhammad Areeb",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@areebhere37/dark-web-1325997cb99d",
+    "featured": false,
+    "claps": 458
+  },
+  {
+    "title": "Fiberglass: An In-Depth Analysis",
+    "reportedAt": "2025-01-12",
+    "authorName": "Ahsan Ali",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@ahsanrana3526/fiberglass-an-in-depth-analysis-bf6b38679612",
+    "featured": false,
+    "claps": 829
+  },
+  {
+    "title": "Powerful Linux Command-Line Tricks for Security Researchers",
+    "reportedAt": "2025-01-15",
+    "authorName": "OSINT Team",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/the-first-digit/powerful-linux-command-line-tricks-for-security-researchers-f6e54cc67906",
+    "featured": false,
+    "claps": 120
+  },
+  {
+    "title": "How I accidentally found an IDOR bug in Google slides and rewarded $3,133.70",
+    "reportedAt": "2024-12-24",
+    "authorName": "Atikqur Rahman",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@atikqur007/how-i-accidentally-found-an-idor-bug-in-google-slides-and-rewarded-3-133-70-96866fac3af1",
+    "featured": false,
+    "claps": 1300
+  },
+  {
+    "title": "2025 ChatGPT Prompts for Bug Hunters",
+    "reportedAt": "2025-01-03",
+    "authorName": "OSINT Team",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/the-first-digit/2025-chatgpt-prompts-for-bug-hunters-575fe60af683",
+    "featured": false,
+    "claps": 155
+  },
+  {
+    "title": "This Simple GraphQL SSRF Bug Earned  $3,000 (3/30 DAYS)",
+    "reportedAt": "2024-12-31",
+    "authorName": "0day stories",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d",
+    "featured": false,
+    "claps": 292
+  },
+  {
+    "title": "How I Was Able to Block Any Username",
+    "reportedAt": "2025-01-05",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/bugbountywriteup/how-i-was-able-to-block-any-username-5707a1fbd25c",
+    "featured": false,
+    "claps": 196
+  },
+  {
+    "title": "When Chrome Extensions Turn Against Us: The Cyberhaven Breach and Beyond",
+    "reportedAt": "2024-12-30",
+    "authorName": "ExtensionTotal",
+    "tags": "cybersecurity",
+    "link": "https://medium.com/extensiontotal/when-chrome-extensions-turn-against-us-the-cyberhaven-breach-and-beyond-9e35e59e1bff",
+    "featured": false,
+    "claps": 257
+  },
+  {
+    "title": "Getting Started with Bug Bounty Hunting in 2025: A Real World Guide",
+    "reportedAt": "2025-01-06",
+    "authorName": "hackbynight",
+    "tags": "information-security",
+    "link": "https://medium.com/@hackbynight/getting-started-with-bug-bounty-hunting-in-2025-a-real-world-guide-051a3fb36376",
+    "featured": false,
+    "claps": 286
+  },
+  {
+    "title": "The World’s First OSCP+ Exam Review",
+    "reportedAt": "2024-11-25",
+    "authorName": "Tunahan TEKEOGLU",
+    "tags": "information-security",
+    "link": "https://medium.com/@tun4hunt/the-worlds-first-oscp-exam-review-317950db3267",
+    "featured": false,
+    "claps": 361
+  },
+  {
+    "title": "Advanced Google Dorking | Part5",
+    "reportedAt": "2024-11-23",
+    "authorName": "Cyber Security Write-ups",
+    "tags": "information-security",
+    "link": "https://medium.com/cybersecuritywriteups/advanced-google-dorking-part5-f2bebc477131",
+    "featured": false,
+    "claps": 140
+  },
+  {
+    "title": "$750 Domain Hijacking Vulnerability",
+    "reportedAt": "2024-12-18",
+    "authorName": "1day",
+    "tags": "information-security",
+    "link": "https://medium.com/@1-day/750-domain-hijacking-vulnerability-f6e4b4445711",
+    "featured": false,
+    "claps": 371
+  },
+  {
+    "title": "Critical Logic issue Lead To bypass file upload filtering",
+    "reportedAt": "2025-01-05",
+    "authorName": "Hamzadzworm",
+    "tags": "information-security",
+    "link": "https://medium.com/@hamzadzworm/critical-logic-issue-lead-to-bypass-file-upload-filtering-363ed57f8668",
+    "featured": false,
+    "claps": 240
+  },
+  {
+    "title": "How I do my recon and end up finding hidden assets and vulnerabilities before anyone else Pt.2",
+    "reportedAt": "2024-11-23",
+    "authorName": "Mohammed Dief",
+    "tags": "information-security",
+    "link": "https://medium.com/@demonia/how-i-do-my-recon-and-end-up-finding-hidden-assets-and-vulnerabilities-before-anyone-else-pt-2-2c8dd13d6c19",
+    "featured": false,
+    "claps": 276
+  },
+  {
+    "title": "Relationships: The Foundation of Human Connection",
+    "reportedAt": "2025-01-07",
+    "authorName": "Vaibhav Pandey",
+    "tags": "information-security",
+    "link": "https://medium.com/@dharmendrapanday38149/relationships-the-foundation-of-human-connection-dff49210e10c",
+    "featured": false,
+    "claps": 142
+  },
+  {
+    "title": "Yoran and Spaf’s Law — in memory of Amit Yoran",
+    "reportedAt": "2025-01-04",
+    "authorName": "Ben Rothke",
+    "tags": "information-security",
+    "link": "https://medium.com/@brothke/yoran-and-spafs-law-in-memory-of-amit-yoran-952d9fb1fe16",
+    "featured": false,
+    "claps": 525
+  },
+  {
+    "title": "A Journey of Limited Path Traversal To RCE With $40,000 Bounty!",
+    "reportedAt": "2025-01-17",
+    "authorName": "HX007",
+    "tags": "hacking",
+    "link": "https://medium.com/@HX007/a-journey-of-limited-path-traversal-to-rce-with-40-000-bounty-fc63c89576ea",
+    "featured": false,
+    "claps": 1100
+  },
+  {
+    "title": "Python libraries every Hacker should know",
+    "reportedAt": "2025-01-02",
+    "authorName": "InfoSec Write-ups",
+    "tags": "hacking",
+    "link": "https://medium.com/bugbountywriteup/python-libraries-every-hacker-should-know-97fb5dae2efd",
+    "featured": false,
+    "claps": 358
+  },
+  {
+    "title": "AT&T Charged This 17-Year-Old $900 So He Took Down Their Network",
+    "reportedAt": "2024-12-03",
+    "authorName": "The Startup",
+    "tags": "hacking",
+    "link": "https://medium.com/swlh/at-t-charged-this-17-year-old-900-so-he-took-down-their-network-7b4e753fe347",
+    "featured": false,
+    "claps": 6100
+  },
+  {
+    "title": "My First year in Bug Bounty 👨‍💻",
+    "reportedAt": "2024-12-27",
+    "authorName": "InfoSec Write-ups",
+    "tags": "hacking",
+    "link": "https://medium.com/bugbountywriteup/my-first-year-in-bug-bounty-10994de47849",
+    "featured": false,
+    "claps": 418
+  },
+  {
+    "title": "From Newbie to Pro: My Journey to a $3,000 Bug Bounty",
+    "reportedAt": "2024-12-05",
+    "authorName": "InfoSec Write-ups",
+    "tags": "hacking",
+    "link": "https://medium.com/bugbountywriteup/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db",
+    "featured": false,
+    "claps": 353
+  },
+  {
+    "title": "My first 100 Days with Bug Bounties.",
+    "reportedAt": "2024-12-31",
+    "authorName": "Abu Hurayra",
+    "tags": "hacking",
+    "link": "https://medium.com/@rootplinix/my-first-100-days-with-bug-bounties-7c4f69f73d3d",
+    "featured": false,
+    "claps": 173
+  },
+  {
+    "title": "The Cyber Weapon That Changed Warfare Forever",
+    "reportedAt": "2025-01-08",
+    "authorName": "Byte of Knowledge",
+    "tags": "hacking",
+    "link": "https://medium.com/byte-of-knowledge/the-cyber-weapon-that-changed-warfare-forever-52b4b0d72fe9",
+    "featured": false,
+    "claps": 146
+  },
+  {
+    "title": "The Critical Role of Cybersecurity in the Digital Age",
+    "reportedAt": "2024-12-17",
+    "authorName": "US Writer",
+    "tags": "hacking",
+    "link": "https://medium.com/@uswriter_09/the-critical-role-of-cybersecurity-in-the-digital-age-22d55af6f6ec",
+    "featured": false,
+    "claps": 760
+  },
+  {
+    "title": "From File Upload To LFI: A Journey To Exploitation",
+    "reportedAt": "2024-12-02",
+    "authorName": "InfoSec Write-ups",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/bugbountywriteup/from-file-upload-to-lfi-a-journey-to-exploitation-02ab5e1a7d0a",
+    "featured": false,
+    "claps": 311
+  },
+  {
+    "title": "The best way to find private Bug-Hunting programs",
+    "reportedAt": "2024-12-24",
+    "authorName": "System Weakness",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/system-weakness/the-best-way-to-find-private-bug-hunting-programs-050e8462ba14",
+    "featured": false,
+    "claps": 239
+  },
+  {
+    "title": "The Guide to Hiring an Ethical Hacker",
+    "reportedAt": "2024-12-26",
+    "authorName": "The Trusted Hacker",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/@thetrustedhacker/the-guide-to-hiring-an-ethical-hacker-d8c545278ff0",
+    "featured": false,
+    "claps": 941
+  },
+  {
+    "title": "Server-side vulnerabilities | #3 AUTHENTICATION",
+    "reportedAt": "2024-12-31",
+    "authorName": "Agape HearTs",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/@agapehearts/server-side-vulnerabilities-3-authentication-ff80ac2efdb4",
+    "featured": false,
+    "claps": 153
+  },
+  {
+    "title": "$200 Recon Bug Bounty🤑",
+    "reportedAt": "2024-12-07",
+    "authorName": "Cyber Security Write-ups",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/cybersecuritywriteups/200-recon-bug-bounty-3538566b94dc",
+    "featured": false,
+    "claps": 365
+  },
+  {
+    "title": "Cybersecurity and Ethical Hacking: Protecting the Digital World",
+    "reportedAt": "2025-01-07",
+    "authorName": "DENNIS EKPENYONG",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/@ekpenyongdannis/cybersecurity-and-ethical-hacking-protecting-the-digital-world-d35707f66f5d",
+    "featured": false,
+    "claps": 300
+  },
+  {
+    "title": "20 Common Misconceptions About Technology",
+    "reportedAt": "2025-01-07",
+    "authorName": "DENNIS EKPENYONG",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/@ekpenyongdannis/20-common-misconceptions-about-technology-7e0946ee7194",
+    "featured": false,
+    "claps": 250
+  },
+  {
+    "title": "How I got access to Credentials easily",
+    "reportedAt": "2024-12-01",
+    "authorName": "MeetCyber",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/meetcyber/how-i-got-access-to-credentials-easily-00ced4ba15bd",
+    "featured": false,
+    "claps": 393
+  },
+  {
+    "title": "Unique dorks to find self-hosted programs for Bug Hunting",
+    "reportedAt": "2024-12-25",
+    "authorName": "OSINT Team",
+    "tags": "ethical-hacking",
+    "link": "https://medium.com/the-first-digit/unique-dorks-to-find-self-hosted-programs-for-bug-hunting-875d69f2c380",
+    "featured": false,
+    "claps": 300
+  },
+  {
+    "title": "Android Intent Redirection: A Hacker’s Gateway to Internal Components",
+    "reportedAt": "2025-01-17",
+    "authorName": "Anas Eladly ( 0x3adly )",
+    "tags": "penetration-testing",
+    "link": "https://medium.com/@0x3adly/android-intent-redirection-a-hackers-gateway-to-internal-components-ebe126bbb2e0",
+    "featured": false,
+    "claps": 255
+  },
+  {
+    "title": "How I Found My First Bug (RXSS)",
+    "reportedAt": "2025-01-06",
+    "authorName": "A0X_Trojan🇵🇸",
+    "tags": "penetration-testing",
+    "link": "https://medium.com/@a0xtrojan/how-i-found-my-first-bug-rxss-2ac44e94d628",
+    "featured": false,
+    "claps": 379
+  },
+  {
+    "title": "Peering into the Shadows: How an Empty Domain Led to a Full-Blown Exploitation Chain",
+    "reportedAt": "2025-01-04",
+    "authorName": "Tusharpuri",
+    "tags": "penetration-testing",
+    "link": "https://medium.com/@tusharpuri6/peering-into-the-shadows-how-an-empty-domain-led-to-a-full-blown-exploitation-chain-b06219d92d0e",
+    "featured": false,
+    "claps": 203
+  },
+  {
+    "title": "OTP Bypass Leads to $2000 (2/30 DAYS)",
+    "reportedAt": "2024-12-30",
+    "authorName": "0day stories",
+    "tags": "penetration-testing",
+    "link": "https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e",
+    "featured": false,
+    "claps": 204
+  },
+  {
+    "title": "Command over Ethernet (PoE) Switch: A Blueprint",
+    "reportedAt": "2025-01-14",
+    "authorName": "TECHNOLOGY WORLD",
+    "tags": "network-security",
+    "link": "https://medium.com/@Mohsinch90/command-over-ethernet-poe-switch-a-blueprint-688a68ce34d1",
+    "featured": false,
+    "claps": 703
+  },
+  {
+    "title": "5G Network",
+    "reportedAt": "2025-01-06",
+    "authorName": "Devrup Chaudhary",
+    "tags": "network-security",
+    "link": "https://medium.com/@devrupjat1212/5g-network-58059ccb8e87",
+    "featured": false,
+    "claps": 202
+  },
+  {
+    "title": "Advanced Cybersecurity: How We’re Outsmarting DoS, DDoS, and Mirai Attacks with a New AI Model",
+    "reportedAt": "2024-12-26",
+    "authorName": "Abdulkader Hajjouz",
+    "tags": "network-security",
+    "link": "https://medium.com/@abdulkaderhajjouz/advanced-cybersecurity-how-were-outsmarting-dos-ddos-and-mirai-attacks-with-a-new-ai-model-ea8aa8c92cb8",
+    "featured": false,
+    "claps": 122
+  },
+  {
+    "title": "Shodan Search Engine Tool: A Comprehensive Guide for Cybersecurity Professionals",
+    "reportedAt": "2024-12-24",
+    "authorName": "OSINT Team",
+    "tags": "network-security",
+    "link": "https://medium.com/the-first-digit/shoden-search-engine-tool-a-comprehensive-guide-for-cybersecurity-professionals-ae36f06d00c4",
+    "featured": false,
+    "claps": 149
+  },
+  {
+    "title": "Censorship Made Easy",
+    "reportedAt": "2024-12-31",
+    "authorName": "Saher Ahmed",
+    "tags": "network-security",
+    "link": "https://medium.com/@Saher7/censorship-made-easy-ff584026f753",
+    "featured": false,
+    "claps": 185
+  },
+  {
+    "title": "Blockchain Applications in Business Unlocking New Possibilities",
+    "reportedAt": "2025-01-15",
+    "authorName": "Mubarak Ali",
+    "tags": "application-security",
+    "link": "https://medium.com/@mubarakmesi/blockchain-applications-in-business-unlocking-new-possibilities-1e2869321f6f",
+    "featured": false,
+    "claps": 392
+  },
+  {
+    "title": "Email and home address disclosure using unauthenticated API endpoint worth $500",
+    "reportedAt": "2024-12-09",
+    "authorName": "InfoSec Write-ups",
+    "tags": "application-security",
+    "link": "https://medium.com/bugbountywriteup/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c",
+    "featured": false,
+    "claps": 236
+  },
+  {
+    "title": "Delete Account Functionality Helped Me Earn $250",
+    "reportedAt": "2024-11-29",
+    "authorName": "the_unlucky_guy",
+    "tags": "application-security",
+    "link": "https://medium.com/@vijetareigns/delete-account-functionality-helped-me-earn-250-21baa23c4034",
+    "featured": false,
+    "claps": 226
+  },
+  {
+    "title": "0xL4ughCTF OSINT Writeups",
+    "reportedAt": "2024-12-27",
+    "authorName": "Ahmed Elessaway",
+    "tags": "threat-intelligence",
+    "link": "https://medium.com/@xelessaway/0xl4ughctf-osint-writeups-44b1f7dcf6d4",
+    "featured": false,
+    "claps": 232
+  },
+  {
+    "title": "The Most Significant Telecom Hack in History: Inside the Salt Typhoon Cyberattack (Part — II) —…",
+    "reportedAt": "2024-12-28",
+    "authorName": "OSINT Team",
+    "tags": "threat-intelligence",
+    "link": "https://medium.com/the-first-digit/the-most-significant-telecom-hack-in-history-inside-the-salt-typhoon-cyberattack-part-ii-89f7758cf82e",
+    "featured": false,
+    "claps": 151
+  },
+  {
+    "title": "Drone Drama and Motherships",
+    "reportedAt": "2024-12-27",
+    "authorName": "Contemplate",
+    "tags": "threat-intelligence",
+    "link": "https://medium.com/contemplate/drone-drama-and-motherships-29f43a1f2258",
+    "featured": false,
+    "claps": 165
+  },
+  {
+    "title": "Are The Drones Searching For Stolen Nuclear Material?",
+    "reportedAt": "2024-12-22",
+    "authorName": "Write A Catalyst",
+    "tags": "threat-intelligence",
+    "link": "https://medium.com/write-a-catalyst/are-the-drones-searching-for-stolen-nuclear-material-38fe2bd53c52",
+    "featured": false,
+    "claps": 185
+  },
+  {
+    "title": "The Most Significant Telecom Hack in History: Inside the Salt Typhoon Cyberattack (Part — 1)",
+    "reportedAt": "2024-12-21",
+    "authorName": "OSINT Team",
+    "tags": "threat-intelligence",
+    "link": "https://medium.com/the-first-digit/the-most-significant-telecom-hack-in-history-inside-the-salt-typhoon-cyberattack-part-1-3c60b5c5abef",
+    "featured": false,
+    "claps": 151
+  },
+  {
+    "title": "Hacking Exposed CAdvisor Panels",
+    "reportedAt": "2024-12-19",
+    "authorName": "OSINT Team",
+    "tags": "vulnerability-assessment",
+    "link": "https://medium.com/the-first-digit/hacking-exposed-cadvisor-panels-4c80b3ae55d7",
+    "featured": false,
+    "claps": 182
+  },
+  {
+    "title": "Advanced Google Dorking | Part12",
+    "reportedAt": "2024-12-13",
+    "authorName": "Cyber Security Write-ups",
+    "tags": "vulnerability-assessment",
+    "link": "https://medium.com/cybersecuritywriteups/advanced-google-dorking-part12-25dc60ac7ffe",
+    "featured": false,
+    "claps": 124
+  },
+  {
+    "title": "Mystery of water and gas in Mohangarh of Jaisalmer (Rajasthan)",
+    "reportedAt": "2025-01-12",
+    "authorName": "Rajkumar Thory",
+    "tags": "incident-response",
+    "link": "https://medium.com/@rajkumarthory/mystery-of-water-and-gas-in-mohangarh-of-jaisalmer-rajasthan-b2ef5ff52f4b",
+    "featured": false,
+    "claps": 148
+  },
+  {
+    "title": "The Impact of Ronaldo’s Coca-Cola Incident",
+    "reportedAt": "2025-01-05",
+    "authorName": "Ch ali",
+    "tags": "incident-response",
+    "link": "https://medium.com/@cali85824/the-impact-of-ronaldos-coca-cola-incident-2ac18d288dc9",
+    "featured": false,
+    "claps": 267
+  },
+  {
+    "title": "South-Korea Plane Accident:",
+    "reportedAt": "2024-12-28",
+    "authorName": "The Alina Pen",
+    "tags": "incident-response",
+    "link": "https://medium.com/@alinamalik_34700/south-korea-plane-accident-437c74dab34f",
+    "featured": false,
+    "claps": 238
+  },
+  {
+    "title": "A Day in the Life of a SOC Analyst",
+    "reportedAt": "2024-11-20",
+    "authorName": "OSINT Team",
+    "tags": "incident-response",
+    "link": "https://medium.com/the-first-digit/a-day-in-the-life-of-a-soc-analyst-b3302c0c1efe",
+    "featured": false,
+    "claps": 315
+  },
+  {
+    "title": "3 Things I Do to Keep My Little One’s Privacy Secured",
+    "reportedAt": "2024-11-25",
+    "authorName": "The Parenting Portal",
+    "tags": "security-awareness",
+    "link": "https://medium.com/the-parenting-portal/3-things-i-do-to-keep-my-little-ones-privacy-secured-63062f3fab93",
+    "featured": false,
+    "claps": 244
+  },
+  {
+    "title": "HTB University CTF 2024: Binary Badlands Forensics Challenges",
+    "reportedAt": "2024-12-16",
+    "authorName": "ELJoOker",
+    "tags": "digital-forensics",
+    "link": "https://medium.com/@ELJoOker/htb-university-ctf-2024-binary-badlands-forensics-challenges-5b355fd258da",
+    "featured": false,
+    "claps": 269
+  },
+  {
+    "title": "Risk Management & Strategy",
+    "reportedAt": "2025-01-05",
+    "authorName": "Roger Martin",
+    "tags": "risk-management",
+    "link": "https://medium.com/@rogermartin/risk-management-strategy-59869afd3558",
+    "featured": false,
+    "claps": 435
+  },
+  {
+    "title": "Forget About Balance Sheets-Profit Comes From Social and Environmental Data",
+    "reportedAt": "2024-11-27",
+    "authorName": "DataDrivenInvestor",
+    "tags": "risk-management",
+    "link": "https://medium.com/datadriveninvestor/forget-about-balance-sheets-profit-comes-from-social-and-environmental-data-7c5ea71f3748",
+    "featured": false,
+    "claps": 263
+  },
+  {
+    "title": "Risk Management You Need to Know for Prop Firms",
+    "reportedAt": "2025-01-06",
+    "authorName": "Noah Williams",
+    "tags": "risk-management",
+    "link": "https://medium.com/@noahwilliams9120/risk-management-you-need-to-know-for-prop-firms-631be42394a7",
+    "featured": false,
+    "claps": 576
+  },
+  {
+    "title": "The Psychology of Gambling: Why We Take the Risk",
+    "reportedAt": "2025-01-05",
+    "authorName": "Durga Devi",
+    "tags": "risk-management",
+    "link": "https://medium.com/@durgavenkatesh/the-psychology-of-gambling-why-we-take-the-risk-901d64a6d09d",
+    "featured": false,
+    "claps": 120
+  },
+  {
+    "title": "The Psychology of Risk",
+    "reportedAt": "2024-12-31",
+    "authorName": "ILLUMINATION",
+    "tags": "risk-management",
+    "link": "https://medium.com/illumination/the-psychology-of-risk-9b6367666ce2",
+    "featured": false,
+    "claps": 859
+  },
+  {
+    "title": "Why Cyber Insurance is So Important for Business in 2024",
+    "reportedAt": "2024-12-24",
+    "authorName": "Hamza Baloch",
+    "tags": "risk-management",
+    "link": "https://medium.com/@HamzaBaloch045/why-cyber-insurance-is-so-important-for-business-in-2024-9efba32e3046",
+    "featured": false,
+    "claps": 691
+  },
+  {
+    "title": "The Importance of Small Realistic Wins in Forex Trading",
+    "reportedAt": "2025-01-01",
+    "authorName": "King Wealth",
+    "tags": "risk-management",
+    "link": "https://medium.com/@kingwealth/the-importance-of-small-realistic-wins-in-forex-trading-946c9c19c30a",
+    "featured": false,
+    "claps": 120
+  },
+  {
+    "title": "It’s cybersecurity’s kryptonite: Why are you still holding it?",
+    "reportedAt": "2024-12-10",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cryptography",
+    "link": "https://medium.com/bugbountywriteup/its-cybersecurity-s-kryptonite-why-are-you-still-holding-it-b5680acb0fe4",
+    "featured": false,
+    "claps": 213
+  },
+  {
+    "title": "Shock News: SHA-256, ECDSA and RSA Not Approved in Australia By 2030",
+    "reportedAt": "2024-12-15",
+    "authorName": "Prof Bill Buchanan OBE FRSE",
+    "tags": "cryptography",
+    "link": "https://medium.com/@billatnapier/shock-news-sha-256-ecdsa-and-rsa-not-approved-in-australia-by-2030-3d1c286cad58",
+    "featured": false,
+    "claps": 298
+  },
+  {
+    "title": "Big Changes Ahead for the Method that Secures The Internet",
+    "reportedAt": "2024-12-28",
+    "authorName": "Prof Bill Buchanan OBE FRSE",
+    "tags": "cryptography",
+    "link": "https://medium.com/@billatnapier/big-changes-ahead-for-the-method-that-secures-the-internet-b18d64aa889c",
+    "featured": false,
+    "claps": 128
+  },
+  {
+    "title": "Does Willow Cause a Major Risk to Public Key Methods?",
+    "reportedAt": "2024-12-13",
+    "authorName": "ASecuritySite: When Bob Met Alice",
+    "tags": "cryptography",
+    "link": "https://medium.com/asecuritysite-when-bob-met-alice/does-willow-cause-a-major-risk-to-public-key-methods-c0db7c1b6bf7",
+    "featured": false,
+    "claps": 121
+  },
+  {
+    "title": "Random Function in Programming — Is it truly random?",
+    "reportedAt": "2024-12-30",
+    "authorName": "Muhdfarseen",
+    "tags": "cryptography",
+    "link": "https://medium.com/@muhdfarseen/random-function-in-programming-is-it-truly-random-eeed43e5f580",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "Cryptography",
+    "reportedAt": "2024-12-30",
+    "authorName": "Vignesh B",
+    "tags": "cryptography",
+    "link": "https://medium.com/@Vigs1150/cryptography-31fd19345795",
+    "featured": false,
+    "claps": 229
+  },
+  {
+    "title": "OSINT Guide for Tracking Malware and Ransomware Activity",
+    "reportedAt": "2024-11-27",
+    "authorName": "InfoSec Write-ups",
+    "tags": "ransomware",
+    "link": "https://medium.com/bugbountywriteup/osint-guide-for-tracking-malware-and-ransomware-activity-6aaaf5e48408",
+    "featured": false,
+    "claps": 180
+  },
+  {
+    "title": "What is a firewall ?",
+    "reportedAt": "2024-12-26",
+    "authorName": "Aurelia Rose 🌹",
+    "tags": "firewall",
+    "link": "https://medium.com/@nishadoll/what-is-a-firewall-a5de29083ed0",
+    "featured": false,
+    "claps": 142
+  },
+  {
+    "title": "Working in Cyber Threat Intelligence (CTI)",
+    "reportedAt": "2024-12-26",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cyber-threats",
+    "link": "https://medium.com/bugbountywriteup/working-in-cyber-threat-intelligence-cti-295f299a2453",
+    "featured": false,
+    "claps": 132
+  },
+  {
+    "title": "What is a Security Audit and How Can It Benefit Your Small Business?",
+    "reportedAt": "2025-01-17",
+    "authorName": "Outsoft",
+    "tags": "data-protection",
+    "link": "https://medium.com/@outsoft.eu/what-is-a-security-audit-and-how-can-it-benefit-your-small-business-6dd38fcb51f9",
+    "featured": false,
+    "claps": 165
+  },
+  {
+    "title": "Why Data Privacy is Critical for Marketing Success",
+    "reportedAt": "2025-01-14",
+    "authorName": "Amber J. Donovan",
+    "tags": "data-protection",
+    "link": "https://medium.com/@amberjdonovan/why-data-privacy-is-critical-for-marketing-success-06b9f616f547",
+    "featured": false,
+    "claps": 193
+  },
+  {
+    "title": "Data Encryption",
+    "reportedAt": "2024-12-20",
+    "authorName": "T3CH",
+    "tags": "data-protection",
+    "link": "https://medium.com/h7w/data-encryption-dd6e0f6ba61e",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "Surely, Meta Can’t Be the Only Data Controller in the EU?",
+    "reportedAt": "2024-12-20",
+    "authorName": "Chiemeka Nwosu",
+    "tags": "data-protection",
+    "link": "https://medium.com/@chiemekanwosu/surely-meta-cant-be-the-only-data-controller-in-the-eu-d0e29dbe441f",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "Digital Identity and Privacy Concerns",
+    "reportedAt": "2024-12-17",
+    "authorName": "Amna Javaid",
+    "tags": "data-protection",
+    "link": "https://medium.com/@Amnajavaid2002/digital-identity-and-privacy-concerns-bd665da30595",
+    "featured": false,
+    "claps": 191
+  },
+  {
+    "title": "⚠️AI’s Achilles’ Heel: 6 Top Technical Risks",
+    "reportedAt": "2024-12-16",
+    "authorName": "Radha Mittal",
+    "tags": "data-protection",
+    "link": "https://medium.com/@radhamittal888/️ais-achilles-heel-6-top-technical-risks-502571772d3a",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "Is Cybersecurity Broken? Let’s Fix it!",
+    "reportedAt": "2024-12-05",
+    "authorName": "Usama Malik",
+    "tags": "zero-trust",
+    "link": "https://medium.com/@cloudwithusama/is-cybersecurity-broken-lets-fix-it-1d389de77a71",
+    "featured": false,
+    "claps": 177
+  },
+  {
+    "title": "Understanding the Zero Trust Security Model: A Comprehensive Guide",
+    "reportedAt": "2024-11-25",
+    "authorName": "InformationTechnologyHub5",
+    "tags": "zero-trust",
+    "link": "https://medium.com/@informationtechnologyhub5/understanding-the-zero-trust-security-model-a-comprehensive-guide-d64e1a51bfdb",
+    "featured": false,
+    "claps": 561
+  },
+  {
+    "title": "LLM Red Teaming for Dummies: A Beginner’s Guide to GenAI Security",
+    "reportedAt": "2024-12-06",
+    "authorName": "Towards AI",
+    "tags": "red-teaming",
+    "link": "https://medium.com/towards-artificial-intelligence/llm-red-teaming-for-dummies-a-beginners-guide-to-genai-security-4f1fdb0c6168",
+    "featured": false,
+    "claps": 198
+  },
+  {
+    "title": "Red Teams vs. Penetration Testing Teams: Understanding Their Unique Roles in Cybersecurity",
+    "reportedAt": "2024-11-30",
+    "authorName": "System Weakness",
+    "tags": "red-teaming",
+    "link": "https://medium.com/system-weakness/red-teams-vs-penetration-testing-teams-understanding-their-unique-roles-in-cybersecurity-1079ea65869d",
+    "featured": false,
+    "claps": 259
+  },
+  {
+    "title": "Catch Me If You Can: The Art of AI Evasion",
+    "reportedAt": "2024-11-25",
+    "authorName": "Level Up Coding",
+    "tags": "red-teaming",
+    "link": "https://medium.com/gitconnected/catch-me-if-you-can-the-art-of-ai-evasion-bd17d80542ca",
+    "featured": false,
+    "claps": 257
+  },
+  {
+    "title": "How I Discovered a Delete CSRF Vulnerability",
+    "reportedAt": "2024-12-31",
+    "authorName": "Fatma Mustafa",
+    "tags": "bug-bounty",
+    "link": "https://medium.com/@Ursula-/how-i-discovered-a-delete-csrf-vulnerability-a46d4bc2e700",
+    "featured": false,
+    "claps": 251
+  },
+  {
+    "title": "This is How I Turned an Informative Bug into a Valid $500 Bug",
+    "reportedAt": "2025-01-14",
+    "authorName": "Shubham Bhamare",
+    "tags": "bug-bounty",
+    "link": "https://medium.com/@theshubh77/this-is-how-i-turned-an-informative-bug-into-a-valid-500-bug-174ffeb94737",
+    "featured": false,
+    "claps": 396
+  },
+  {
+    "title": "Remember, the key is to stay motivated at every step.",
+    "reportedAt": "2025-01-14",
+    "authorName": "Rhonnysharma",
+    "tags": "bug-bounty",
+    "link": "https://medium.com/@rhonnysharma783/linkedin-linkedin-com-in-rhonny-99f682300332",
+    "featured": false,
+    "claps": 198
+  },
+  {
+    "title": "How I got my name on WHO’s Hall of Fame",
+    "reportedAt": "2025-01-14",
+    "authorName": "RivuDon",
+    "tags": "bug-bounty",
+    "link": "https://medium.com/@rivudon/how-i-got-my-name-on-whos-hall-of-fame-060d57662b16",
+    "featured": false,
+    "claps": 237
+  },
+  {
+    "title": "PDF.js Arbitrary JavaScript Code Execution (CVE-2024-4367)",
+    "reportedAt": "2025-01-02",
+    "authorName": "InfoSec Write-ups",
+    "tags": "bug-bounty",
+    "link": "https://medium.com/bugbountywriteup/pdf-js-arbitrary-javascript-code-execution-cve-2024-4367-be4a64f877df",
+    "featured": false,
+    "claps": 156
+  },
+  {
+    "title": "The Importance of Data Encryption in Today’s Digital Age",
+    "reportedAt": "2025-01-01",
+    "authorName": "The Smart Solutions",
+    "tags": "data-encryption",
+    "link": "https://medium.com/@thesmartsolutions_10913/the-importance-of-data-encryption-in-todays-digital-age-df6eb6fe111b",
+    "featured": false,
+    "claps": 230
+  },
+  {
+    "title": "Building Secure FHE Applications with TEE and JavaScript.",
+    "reportedAt": "2024-11-27",
+    "authorName": "Tomheroy Blog",
+    "tags": "data-encryption",
+    "link": "https://medium.com/@tomheroy006/building-secure-fhe-applications-with-tee-and-javascript-b35cd46beefd",
+    "featured": false,
+    "claps": 149
+  },
+  {
+    "title": "Identity and Access Management (IAM): A Beginner’s Guide",
+    "reportedAt": "2024-11-27",
+    "authorName": "Vikrant Dheer",
+    "tags": "identity-management",
+    "link": "https://medium.com/@vikrantdheer/identity-and-access-management-iam-a-beginners-guide-2893f5b3dfda",
+    "featured": false,
+    "claps": 133
+  },
+  {
+    "title": "From Broken Access Control to First Bounty",
+    "reportedAt": "2024-12-23",
+    "authorName": "InfoSec Write-ups",
+    "tags": "access-control",
+    "link": "https://medium.com/bugbountywriteup/from-broken-access-control-to-first-bounty-01712b1dab53",
+    "featured": false,
+    "claps": 322
+  },
+  {
+    "title": "Beyond User IDs: Managing the Rise of Non-Human Identities (NHIDs) in Identity and Access…",
+    "reportedAt": "2024-12-21",
+    "authorName": "Astranova Labs",
+    "tags": "access-control",
+    "link": "https://medium.com/astranova-labs/beyond-user-ids-managing-the-rise-of-non-human-identities-nhids-in-identity-and-access-e4a93fd6ecb2",
+    "featured": false,
+    "claps": 292
+  },
+  {
+    "title": "Introducing SPER: A way of rating teams based on Expected Goals Difference from Set Pieces",
+    "reportedAt": "2024-12-19",
+    "authorName": "Marc Lamberts",
+    "tags": "soc",
+    "link": "https://medium.com/@marclamberts/introducing-sper-a-way-of-rating-teams-based-on-expected-goals-difference-from-set-pieces-6118c4011cff",
+    "featured": false,
+    "claps": 193
+  },
+  {
+    "title": "How a Malicious Application Used a Game Demo to Deliver an Infostealer",
+    "reportedAt": "2024-12-19",
+    "authorName": "Ahmed Elessaway",
+    "tags": "soc",
+    "link": "https://medium.com/@xelessaway/how-a-malicious-application-used-a-game-demo-to-deliver-an-infostealer-a48a155a54cf",
+    "featured": false,
+    "claps": 120
+  },
+  {
+    "title": "Mobile Software: The Brain Behind Your Smartphone",
+    "reportedAt": "2024-11-27",
+    "authorName": "Eagle Cross",
+    "tags": "mobile-security",
+    "link": "https://medium.com/@eaglecross/mobile-software-the-brain-behind-your-smartphone-4f09052ebf03",
+    "featured": false,
+    "claps": 412
+  },
+  {
+    "title": "Day 57: IoT Development with Rust",
+    "reportedAt": "2024-12-01",
+    "authorName": "OSINT Team",
+    "tags": "iot-security",
+    "link": "https://medium.com/the-first-digit/day-57-iot-development-with-rust-c49bbde09e01",
+    "featured": false,
+    "claps": 126
+  },
+  {
+    "title": "The Rogue Christmas Parcel: A Hidden Cyber Threat",
+    "reportedAt": "2024-12-07",
+    "authorName": "Keith F",
+    "tags": "iot-security",
+    "link": "https://medium.com/@intspired/the-rogue-christmas-parcel-a-hidden-cyber-threat-e214d37f8a1e",
+    "featured": false,
+    "claps": 651
+  },
+  {
+    "title": "The Untapped Potential of Symbolic Execution in Finding DeFi-Specific Bugs",
+    "reportedAt": "2024-11-25",
+    "authorName": "Olympix",
+    "tags": "smart-contract-security",
+    "link": "https://medium.com/@olympixai/the-untapped-potential-of-symbolic-execution-in-finding-defi-specific-bugs-ccd6adc01f00",
+    "featured": false,
+    "claps": 145
+  },
+  {
+    "title": "Cybersecurity Threats and Precautions: Protecting in the Digital Age",
+    "reportedAt": "2024-11-20",
+    "authorName": "Muhammad Nabeel",
+    "tags": "password-security",
+    "link": "https://medium.com/@muhammadnabeel_39797/cybersecurity-threats-and-precautions-protecting-in-the-digital-age-1172937997b5",
+    "featured": false,
+    "claps": 159
+  },
+  {
+    "title": "Why Two-Factor Authentication is Like Having a Bouncer for Your Digital Life (Who Actually Shows…",
+    "reportedAt": "2024-12-04",
+    "authorName": "MeetCyber",
+    "tags": "mfa",
+    "link": "https://medium.com/meetcyber/why-two-factor-authentication-is-like-having-a-bouncer-for-your-digital-life-who-actually-shows-up-bb69b6387a00",
+    "featured": false,
+    "claps": 133
+  },
+  {
+    "title": "Authentication & Authorization. OAuth 2.0, OpenID Connect, and SSO. Part 2",
+    "reportedAt": "2024-12-07",
+    "authorName": "Pharos Production",
+    "tags": "security-engineering",
+    "link": "https://medium.com/pharos-production/authentication-authorization-oauth-2-0-openid-connect-and-sso-part-2-b8eb8f51866b",
+    "featured": false,
+    "claps": 360
+  },
+  {
+    "title": "CISSP Study Guide: In-Depth Summary Notes on Security Assessment and Testing",
+    "reportedAt": "2025-01-07",
+    "authorName": "MeetCyber",
+    "tags": "cissp",
+    "link": "https://medium.com/meetcyber/cissp-study-guide-in-depth-summary-notes-on-security-assessment-and-testing-3da161066b24",
+    "featured": false,
+    "claps": 394
+  },
+  {
+    "title": "Why I Chose a Cybersecurity Masters in Science Degree Over the CISSP Certification",
+    "reportedAt": "2024-12-03",
+    "authorName": "InfoSec Write-ups",
+    "tags": "cissp",
+    "link": "https://medium.com/bugbountywriteup/why-i-chose-a-cybersecurity-masters-in-science-degree-over-the-cissp-certification-2e4f2eb5966d",
+    "featured": false,
+    "claps": 132
+  },
+  {
+    "title": "CISSP Study Guide: In-Depth Summary Notes on Communication and Network Security",
+    "reportedAt": "2024-12-08",
+    "authorName": "MeetCyber",
+    "tags": "cissp",
+    "link": "https://medium.com/meetcyber/cissp-study-guide-in-depth-summary-notes-on-communication-and-network-security-cbf2dd240aef",
+    "featured": false,
+    "claps": 478
+  },
+  {
+    "title": "OSCP+: Step-by-Step Guide to Success",
+    "reportedAt": "2024-12-08",
+    "authorName": "Astik Rawat",
+    "tags": "oscp",
+    "link": "https://medium.com/@astikrawat/oscp-step-by-step-guide-to-success-9ff3d189dbb2",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "How to hire a hacker",
+    "reportedAt": "2025-01-15",
+    "authorName": "Dimitris Nicholas",
+    "tags": "cybersecurity-careers",
+    "link": "https://medium.com/@carl19722401/how-to-hire-a-hacker-6ffc0ee2cb2f",
+    "featured": false,
+    "claps": 199
+  },
+  {
+    "title": "Investigating a Sneaky Error at Doctrine",
+    "reportedAt": "2024-12-03",
+    "authorName": "Inside Doctrine",
+    "tags": "wireshark",
+    "link": "https://medium.com/doctrine/investigating-a-sneaky-error-at-doctrine-1c7bf1bd5d61",
+    "featured": false,
+    "claps": 290
+  },
+  {
+    "title": "DNS Amplification Attack",
+    "reportedAt": "2025-01-01",
+    "authorName": "OSINT Team",
+    "tags": "nmap",
+    "link": "https://medium.com/the-first-digit/dns-amplification-attack-f8bc1a918ace",
+    "featured": false,
+    "claps": 123
+  },
+  {
+    "title": "A Step-by-Step Plan To Master AI Security in 2025",
+    "reportedAt": "2024-12-19",
+    "authorName": "InfoSec Write-ups",
+    "tags": "owasp",
+    "link": "https://medium.com/bugbountywriteup/a-step-by-step-plan-to-master-ai-security-in-2025-16a91405aefa",
+    "featured": false,
+    "claps": 162
+  },
+  {
+    "title": "The 10 Best All-Women* Punk Bands of the 90s",
+    "reportedAt": "2024-12-31",
+    "authorName": "The Riff",
+    "tags": "top-10",
+    "link": "https://medium.com/the-riff/the-10-best-all-women-punk-bands-of-the-90s-7f380af29d47",
+    "featured": false,
+    "claps": 620
+  },
+  {
+    "title": "My Medium Profile Was Under Review?",
+    "reportedAt": "2024-12-12",
+    "authorName": "Readers Club",
+    "tags": "top-10",
+    "link": "https://medium.com/readers-club/my-medium-profile-was-under-review-4ce8b07b42f3",
+    "featured": false,
+    "claps": 3500
+  },
+  {
+    "title": "Top 10 Healthy Snack Ideas You Can Prepare at Home and Their Benefits",
+    "reportedAt": "2025-01-14",
+    "authorName": "Creative Thoughts",
+    "tags": "top-10",
+    "link": "https://medium.com/@harrymillfred/top-10-healthy-snack-ideas-you-can-prepare-at-home-and-their-benefits-5c63264c9588",
+    "featured": false,
+    "claps": 162
+  },
+  {
+    "title": "Top 10 Rare Animals Which Are Known For Their Incredible Memory",
+    "reportedAt": "2025-01-03",
+    "authorName": "Sitaaaary",
+    "tags": "top-10",
+    "link": "https://medium.com/@itxsia96/top-10-rare-animals-which-are-known-for-their-incredible-memory-b002c3019927",
+    "featured": false,
+    "claps": 303
+  },
+  {
+    "title": "10 Mind-Blowing Ways to Make Money Online That’ll Have You Quitting Your Day Job",
+    "reportedAt": "2025-01-03",
+    "authorName": "blogginglen.com",
+    "tags": "top-10",
+    "link": "https://medium.com/@blogginglen/10-mind-blowing-ways-to-make-money-online-thatll-have-you-quitting-your-day-job-988ce1d46bb5",
+    "featured": false,
+    "claps": 129
+  },
+  {
+    "title": "Top 10 News Agencies inside the World",
+    "reportedAt": "2025-01-02",
+    "authorName": "Asif Info Tv",
+    "tags": "top-10",
+    "link": "https://medium.com/@Asifinfotv786/top-10-news-agencies-inside-the-world-cf21116ddcb7",
+    "featured": false,
+    "claps": 471
+  },
+  {
+    "title": "Birdwatching for Beginners: How to Get Started",
+    "reportedAt": "2024-12-14",
+    "authorName": "HM Birds",
+    "tags": "top-10",
+    "link": "https://medium.com/@ff0956620/birdwatching-for-beginners-how-to-get-started-3915b8492e33",
+    "featured": false,
+    "claps": 163
+  },
+  {
+    "title": "My Top 5 Albums of 2024",
+    "reportedAt": "2025-01-01",
+    "authorName": "Josh Herring",
+    "tags": "top-10",
+    "link": "https://medium.com/@j-herring/my-top-5-albums-of-2024-82b55d406fce",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "My Top 10 Favorite Albums Of 2024",
+    "reportedAt": "2024-12-30",
+    "authorName": "Isi",
+    "tags": "top-10",
+    "link": "https://medium.com/@disidoroo/my-top-10-favorite-albums-of-2024-b9c0e8355914",
+    "featured": false,
+    "claps": 132
+  },
+  {
+    "title": "My Ten Best Collages of 2024",
+    "reportedAt": "2024-12-28",
+    "authorName": "Share Your Creativity",
+    "tags": "top-10",
+    "link": "https://medium.com/share-your-creativity/my-ten-best-collages-of-2024-961c470be093",
+    "featured": false,
+    "claps": 307
+  },
+  {
+    "title": "10 Hilarious Swinger Problems Only ‘We’ Will Understand",
+    "reportedAt": "2024-12-02",
+    "authorName": "The Erogenous Zone",
+    "tags": "top-10",
+    "link": "https://medium.com/erogenous/10-hilarious-swinger-problems-only-we-will-understand-bb39bedf13a3",
+    "featured": false,
+    "claps": 170
+  },
+  {
+    "title": "Why NGINX IngressController Isn’t the Best Choice for Production Workloads",
+    "reportedAt": "2024-11-24",
+    "authorName": "Talha Khaild",
+    "tags": "devsecops",
+    "link": "https://medium.com/@talhakhalid101/why-nginx-ingresscontroller-isnt-the-best-choice-for-production-workloads-dfc641da3e2c",
+    "featured": false,
+    "claps": 266
+  },
+  {
+    "title": "DevOps in 2025: Trends, Tools, and Best Practices🚀",
+    "reportedAt": "2024-12-25",
+    "authorName": "devsecops-community",
+    "tags": "devsecops",
+    "link": "https://medium.com/devsecops-community/devops-in-2025-trends-tools-and-best-practices-41815e3206d4",
+    "featured": false,
+    "claps": 130
+  },
+  {
+    "title": "DevSecOps SDLC Pipeline Explained: Strengthening Security at Every Stage",
+    "reportedAt": "2025-01-12",
+    "authorName": "DevOps.dev",
+    "tags": "devsecops",
+    "link": "https://medium.com/devops-dev/devsecops-sdlc-pipeline-explained-strengthening-security-at-every-stage-3392f7e99141",
+    "featured": false,
+    "claps": 121
+  },
+  {
+    "title": "How to Set Up Role-Based Access Control (RBAC) Like a Pro on Linux?",
+    "reportedAt": "2024-12-08",
+    "authorName": "devsecops-community",
+    "tags": "devsecops",
+    "link": "https://medium.com/devsecops-community/how-to-set-up-role-based-access-control-rbac-like-a-pro-on-linux-931aeb64c165",
+    "featured": false,
+    "claps": 131
+  },
+  {
+    "title": "DevSecOps Best Practices: Enhancing Security in DevOps",
+    "reportedAt": "2024-12-19",
+    "authorName": "Content Creators",
+    "tags": "devsecops",
+    "link": "https://medium.com/web3-technologies/devsecops-best-practices-enhancing-security-in-devops-d90306b8aee6",
+    "featured": false,
+    "claps": 310
+  },
+  {
+    "title": "10 HIDDEN WEBSITES on the INTERNET you need to explore",
+    "reportedAt": "2024-12-16",
+    "authorName": "Sareena",
+    "tags": "dark-web",
+    "link": "https://medium.com/@sareena18/10-hidden-websites-on-the-internet-you-need-to-explore-fb15793266b2",
+    "featured": false,
+    "claps": 824
+  },
+  {
+    "title": "10 WEBSITES that feel too powerful to be real",
+    "reportedAt": "2024-11-30",
+    "authorName": "Sareena",
+    "tags": "dark-web",
+    "link": "https://medium.com/@sareena18/10-hidden-websites-that-feel-too-powerful-to-be-real-5e394ea31ed5",
+    "featured": false,
+    "claps": 930
+  },
+  {
+    "title": "These 13 AI WEBSITES and TOOLS are my secret to getting more done in less time",
+    "reportedAt": "2025-01-13",
+    "authorName": "Sareena",
+    "tags": "dark-web",
+    "link": "https://medium.com/@sareena18/these-13-ai-websites-and-tools-are-my-secret-to-getting-more-done-in-less-time-ab9efe4d0209",
+    "featured": false,
+    "claps": 191
+  },
+  {
+    "title": "Dark Corners of the Internet: How to Safely Navigate the Deep Web",
+    "reportedAt": "2025-01-04",
+    "authorName": "The Capital",
+    "tags": "dark-web",
+    "link": "https://medium.com/thecapital/dark-corners-of-the-internet-how-to-safely-navigate-the-deep-web-fc414d7de984",
+    "featured": false,
+    "claps": 320
+  },
+  {
+    "title": "How “Anonymous” Hacked Sony PlayStation And Breached the Data of 77 Million Gamers",
+    "reportedAt": "2025-01-15",
+    "authorName": "MeetCyber",
+    "tags": "cyber-crime",
+    "link": "https://medium.com/meetcyber/how-anonymous-hacked-sony-playstation-and-breached-the-data-of-77-million-gamers-441ccaaefab9",
+    "featured": false,
+    "claps": 290
+  },
+  {
+    "title": "How to Create and Implement Baseline Security Requirements",
+    "reportedAt": "2024-12-31",
+    "authorName": "MeetCyber",
+    "tags": "digital-security",
+    "link": "https://medium.com/meetcyber/why-every-company-needs-to-have-baseline-security-requirements-361e96bdfe4b",
+    "featured": false,
+    "claps": 347
+  },
+  {
+    "title": "How Quantum Computing Will Redefine Cybersecurity",
+    "reportedAt": "2024-12-31",
+    "authorName": "Md Ezaz Ahmed",
+    "tags": "digital-security",
+    "link": "https://medium.com/@ezazweb3/how-quantum-computing-will-redefine-cybersecurity-ddac08f1ebe1",
+    "featured": false,
+    "claps": 341
+  },
+  {
+    "title": "Why I’m Almost Ready to Replace Google",
+    "reportedAt": "2024-12-08",
+    "authorName": "DataDrivenInvestor",
+    "tags": "privacy",
+    "link": "https://medium.com/datadriveninvestor/why-im-almost-ready-to-replace-google-7dc2ca9e413f",
+    "featured": false,
+    "claps": 203
+  },
+  {
+    "title": "The Truth About Selling Your Data: Protect Your Privacy Now",
+    "reportedAt": "2024-11-26",
+    "authorName": "Code Like A Girl",
+    "tags": "privacy",
+    "link": "https://medium.com/code-like-a-girl/the-truth-about-selling-your-data-protect-your-privacy-now-76e94c511305",
+    "featured": false,
+    "claps": 610
+  },
+  {
+    "title": "The Hidden Truth Behind “Clean” Social Media Profiles of Women",
+    "reportedAt": "2025-01-14",
+    "authorName": "EdithTali",
+    "tags": "privacy",
+    "link": "https://medium.com/@edithtali/the-hidden-truth-behind-clean-social-media-profiles-of-women-329e287922f1",
+    "featured": false,
+    "claps": 195
+  },
+  {
+    "title": "Stop Telling People Everything",
+    "reportedAt": "2025-01-17",
+    "authorName": "Readers Hope",
+    "tags": "privacy",
+    "link": "https://medium.com/readers-digests/stop-telling-people-everything-338c840d0e1b",
+    "featured": false,
+    "claps": 243
+  },
+  {
+    "title": "The Tide is Turning Against Technology",
+    "reportedAt": "2025-01-05",
+    "authorName": "Coping with Capitalism",
+    "tags": "privacy",
+    "link": "https://medium.com/coping-with-capitalism/the-tide-is-turning-against-technology-316b25f6982e",
+    "featured": false,
+    "claps": 126
+  },
+  {
+    "title": "Privacy in Ethereum — Stealth Addresses",
+    "reportedAt": "2024-11-20",
+    "authorName": "Simon Brown",
+    "tags": "privacy",
+    "link": "https://medium.com/@simbro/privacy-in-ethereum-stealth-addresses-f05016109010",
+    "featured": false,
+    "claps": 129
+  },
+  {
+    "title": "Homage To The 99%",
+    "reportedAt": "2025-01-16",
+    "authorName": "Imad",
+    "tags": "surveillance",
+    "link": "https://medium.com/@imadm77/b-by-homage-to-the-99-c75a3efeb1f4",
+    "featured": false,
+    "claps": 462
+  },
+  {
+    "title": "LLB and Gael MacLean Herd Sheep in Failing  Democracy",
+    "reportedAt": "2024-12-31",
+    "authorName": "Parallax Visions: Altering the Angles of Reality",
+    "tags": "surveillance",
+    "link": "https://medium.com/parallax-visions-altering-the-angles-of-reality/llb-and-gael-maclean-herd-sheep-in-failing-democracy-999d44723a60",
+    "featured": false,
+    "claps": 250
+  },
+  {
+    "title": "Do Your Friends a Favour and Get a Mouse Jiggler",
+    "reportedAt": "2024-12-12",
+    "authorName": "Never Stop Writing",
+    "tags": "surveillance",
+    "link": "https://medium.com/never-stop-writing/do-your-friends-a-favour-and-get-a-mouse-jiggler-3d2cb1173673",
+    "featured": false,
+    "claps": 230
+  },
+  {
+    "title": "Authentication & Authorization. OAuth 2.0, OpenID Connect, and SSO. Part 1",
+    "reportedAt": "2024-12-04",
+    "authorName": "Pharos Production",
+    "tags": "software-security",
+    "link": "https://medium.com/pharos-production/authentication-authorization-oauth-2-0-openid-connect-and-sso-part-1-8dc1015d72ed",
+    "featured": false,
+    "claps": 436
+  },
+  {
+    "title": "CVEs Are Killing Software",
+    "reportedAt": "2024-11-25",
+    "authorName": "Andrew Zuo",
+    "tags": "software-security",
+    "link": "https://medium.com/@impure/cves-are-killing-software-b4c49f8e894f",
+    "featured": false,
+    "claps": 147
+  },
+  {
+    "title": "Geekhouse: an LLM-based IoT project",
+    "reportedAt": "2024-12-22",
+    "authorName": "Pavel Anni",
+    "tags": "iot",
+    "link": "https://medium.com/@pavelanni/geekhouse-an-llm-based-iot-project-ea5286f2ea4d",
+    "featured": false,
+    "claps": 217
+  },
+  {
+    "title": "What is MicroPython? Do I Need to Know it as a Data Scientist?",
+    "reportedAt": "2025-01-13",
+    "authorName": "Towards Data Science",
+    "tags": "iot",
+    "link": "https://medium.com/towards-data-science/what-is-micropython-do-i-need-to-know-it-as-a-data-scientist-5b4567a21b99",
+    "featured": false,
+    "claps": 120
+  },
+  {
+    "title": "Transforming Agriculture with IoT: Automatic spraying AI-powered Device",
+    "reportedAt": "2025-01-13",
+    "authorName": "Allmatics",
+    "tags": "iot",
+    "link": "https://medium.com/@allmatics/transforming-agriculture-with-iot-automatic-spraying-ai-powered-device-2a3749426fb5",
+    "featured": false,
+    "claps": 815
+  },
+  {
+    "title": "Surprising Open Source Projects",
+    "reportedAt": "2024-12-20",
+    "authorName": "OpenSourceScribes",
+    "tags": "iot",
+    "link": "https://medium.com/sourcescribes/surprising-open-source-projects-a497d7b5ce1d",
+    "featured": false,
+    "claps": 143
+  },
+  {
+    "title": "Top 10 IoT Crypto Tokens and 5 Promising Crypto Tokens on CoinMarketCap with Exciting Airdrop…",
+    "reportedAt": "2024-12-31",
+    "authorName": "Wharf Street Strategies",
+    "tags": "iot",
+    "link": "https://medium.com/@wharfstreetstrategies/top-10-iot-crypto-tokens-and-5-promising-crypto-tokens-on-coinmarketcap-with-exciting-airdrop-8c1c12e654f2",
+    "featured": false,
+    "claps": 191
+  },
+  {
+    "title": "TEN4 - Revolutionizing Aviation Communication with AI",
+    "reportedAt": "2025-01-03",
+    "authorName": "Allmatics",
+    "tags": "iot",
+    "link": "https://medium.com/@allmatics/ten4-revolutionizing-aviation-communication-with-ai-a231078e6dc2",
+    "featured": false,
+    "claps": 924
+  },
+  {
+    "title": "A City’s Mirror: The Promise of Digital Twins 🌆🧐",
+    "reportedAt": "2025-01-08",
+    "authorName": "Radha Mittal",
+    "tags": "iot",
+    "link": "https://medium.com/@radhamittal888/a-citys-mirror-the-promise-of-digital-twins-62d02e89764c",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "What is the future of smart dust technology?🔍",
+    "reportedAt": "2025-01-04",
+    "authorName": "Radha Mittal",
+    "tags": "iot",
+    "link": "https://medium.com/@radhamittal888/what-is-the-future-of-smart-dust-technology-6de15ffc0c51",
+    "featured": false,
+    "claps": 175
+  },
+  {
+    "title": "What’s That Site Running? A Guide to Netcraft’s Website Profiling Tool",
+    "reportedAt": "2024-12-22",
+    "authorName": "System Weakness",
+    "tags": "cybersecurity-tools",
+    "link": "https://medium.com/system-weakness/whats-that-site-running-a-guide-to-netcraft-s-website-profiling-tool-7a6545b1a1ae",
+    "featured": false,
+    "claps": 138
+  },
+  {
+    "title": "How Two Hardcoded Credentials Led To Payment System Takeover, Exposed 20,000 Credit Cards & Enabled…",
+    "reportedAt": "2024-12-04",
+    "authorName": "Berserker",
+    "tags": "web-security",
+    "link": "https://medium.com/@Berserker1337/how-two-hardcoded-credentials-led-to-payment-system-takeover-exposed-20-000-credit-cards-enabled-04b0ac232786",
+    "featured": false,
+    "claps": 256
+  },
+  {
+    "title": "What happens when databases crash mid backend request?",
+    "reportedAt": "2025-01-02",
+    "authorName": "Hussein Nasser",
+    "tags": "database-security",
+    "link": "https://medium.com/@hnasr/what-happens-when-databases-crash-mid-backend-request-38c26429dc6e",
+    "featured": false,
+    "claps": 316
+  },
+  {
+    "title": "TRYHACKME : Year of the Rabbit",
+    "reportedAt": "2024-12-23",
+    "authorName": "Agape HearTs",
+    "tags": "ctf",
+    "link": "https://medium.com/@agapehearts/tryhackme-year-of-the-rabbit-008832e4bfa4",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "3 Things I Will Never Do Again As Long as I Live",
+    "reportedAt": "2024-12-22",
+    "authorName": "Mr. Plan ₿ Publication",
+    "tags": "compliance",
+    "link": "https://medium.com/mr-plan-publication/3-things-i-will-never-do-again-as-long-as-i-live-7447b017d34b",
+    "featured": false,
+    "claps": 170
+  },
+  {
+    "title": "HIPAA Compliance in Medical Billing: Best Practices for Data Security",
+    "reportedAt": "2024-11-29",
+    "authorName": "Turabul Hasan",
+    "tags": "hipaa",
+    "link": "https://medium.com/@iamturabulhasan12/hipaa-compliance-in-medical-billing-best-practices-for-data-security-2e9e81a3b1ae",
+    "featured": false,
+    "claps": 770
+  },
+  {
+    "title": "The Margin of Safety: Your Lifeline in a Risky Investment World",
+    "reportedAt": "2025-01-14",
+    "authorName": "DataDrivenInvestor",
+    "tags": "financial-security",
+    "link": "https://medium.com/datadriveninvestor/the-margin-of-safety-your-lifeline-in-a-risky-investment-world-a3a63ef08780",
+    "featured": false,
+    "claps": 265
+  },
+  {
+    "title": "Why Everyone Should Consider Passive Income Today",
+    "reportedAt": "2024-12-22",
+    "authorName": "Author Advocate",
+    "tags": "financial-security",
+    "link": "https://medium.com/@authoradvocate555/why-everyone-should-consider-passive-income-today-010b157dcc47",
+    "featured": false,
+    "claps": 128
+  },
+  {
+    "title": "Unlock Daily Income Secrets",
+    "reportedAt": "2024-11-27",
+    "authorName": "Author Advocate",
+    "tags": "financial-security",
+    "link": "https://medium.com/@authoradvocate555/unlock-daily-income-secrets-d81a7527b432",
+    "featured": false,
+    "claps": 150
+  },
+  {
+    "title": "Playing Twenty Questions With My Bank After a Fraud Alert Is No Joke",
+    "reportedAt": "2025-01-16",
+    "authorName": "Crow’s Feet: Life As We Age",
+    "tags": "fraud-detection",
+    "link": "https://medium.com/crows-feet/playing-twenty-questions-with-my-bank-after-a-fraud-alert-is-no-joke-15526187acfb",
+    "featured": false,
+    "claps": 336
+  },
+  {
+    "title": "Credit Card Fraud Detection with Different Sampling Techniques",
+    "reportedAt": "2024-12-14",
+    "authorName": "Towards Data Science",
+    "tags": "fraud-detection",
+    "link": "https://medium.com/towards-data-science/credit-card-fraud-detection-with-different-sampling-techniques-cece7734acc5",
+    "featured": false,
+    "claps": 121
+  },
+  {
+    "title": "Scammed: The True Cost of Fraud.",
+    "reportedAt": "2024-12-06",
+    "authorName": "Tracy Sutherland - Internet and Affiliate Marketer",
+    "tags": "fraud-detection",
+    "link": "https://medium.com/@tracysutherland_10289/scammed-the-true-cost-of-fraud-a198e49f223c",
+    "featured": false,
+    "claps": 175
+  },
+  {
+    "title": "Locked Out of My Life: How My Bank’s ‘Protection’ System Became My Personal Prison",
+    "reportedAt": "2024-12-06",
+    "authorName": "Sara Lynne George",
+    "tags": "fraud-detection",
+    "link": "https://medium.com/@saralynnegeorge/locked-out-of-my-life-how-my-banks-protection-system-became-my-personal-prison-1b4201288d7d",
+    "featured": false,
+    "claps": 1980
+  },
+  {
+    "title": "Warning: Your Apple ID is Suspended",
+    "reportedAt": "2024-11-27",
+    "authorName": "The Shortform",
+    "tags": "fraud-detection",
+    "link": "https://medium.com/the-shortform/warning-your-apple-id-is-suspended-3539ca78d602",
+    "featured": false,
+    "claps": 557
+  },
+  {
+    "title": "What Is Insurance Fraud? Discover How AI Is Transforming Insurance Fraud Detection",
+    "reportedAt": "2024-11-23",
+    "authorName": "The Deep Hub",
+    "tags": "fraud-detection",
+    "link": "https://medium.com/thedeephub/what-is-insurance-fraud-discover-how-ai-is-transforming-insurance-fraud-detection-07e1a518efb1",
+    "featured": false,
+    "claps": 542
+  },
+  {
+    "title": "Improving Your Application Availability — Active-Active Patterns",
+    "reportedAt": "2024-12-19",
+    "authorName": "SSENSE-TECH",
+    "tags": "disaster-recovery",
+    "link": "https://medium.com/ssense-tech/improving-your-application-availability-active-active-patterns-20eaa6f9d57e",
+    "featured": false,
+    "claps": 167
+  },
+  {
+    "title": "Recovery from Fires and Natural Disasters",
+    "reportedAt": "2024-12-31",
+    "authorName": "The Pub",
+    "tags": "disaster-recovery",
+    "link": "https://medium.com/the-pub/recovery-from-fires-and-natural-disasters-be081612ef40",
+    "featured": false,
+    "claps": 130
+  },
+  {
+    "title": "Agnihotra’s Healing Power: A Survivor’s Secret in the Bhopal Gas Tragedy",
+    "reportedAt": "2024-12-14",
+    "authorName": "The Heritage Pub",
+    "tags": "disaster-recovery",
+    "link": "https://medium.com/the-heritage-pub/agnihotras-healing-power-a-survivor-s-secret-in-the-bhopal-gas-tragedy-62ffb25c1231",
+    "featured": false,
+    "claps": 162
+  },
+  {
+    "title": "Improving Your Application Availability — Disaster Recovery",
+    "reportedAt": "2024-11-21",
+    "authorName": "SSENSE-TECH",
+    "tags": "disaster-recovery",
+    "link": "https://medium.com/ssense-tech/improving-your-application-availability-disaster-recovery-0f63793b9d89",
+    "featured": false,
+    "claps": 456
+  },
+  {
+    "title": "SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide",
+    "reportedAt": "2024-12-25",
+    "authorName": "InfoSec Write-ups",
+    "tags": "soc-analysts",
+    "link": "https://medium.com/bugbountywriteup/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0",
+    "featured": false,
+    "claps": 241
+  },
+  {
+    "title": "The Virus That Made $38,000 a Week — And You Probably Had It",
+    "reportedAt": "2025-01-14",
+    "authorName": "Alberto Menéndez Rodriguez",
+    "tags": "malware",
+    "link": "https://medium.com/@alberto.menendez89/the-virus-that-made-38-000-a-week-and-you-probably-had-it-1026106964cc",
+    "featured": false,
+    "claps": 170
+  },
+  {
+    "title": "Can AI be the New Sherlock Holmes of Cybersecurity?",
+    "reportedAt": "2025-01-01",
+    "authorName": "Aastha Thakker",
+    "tags": "malware",
+    "link": "https://medium.com/@aasthathakker/can-ai-be-the-new-sherlock-holmes-of-cybersecurity-5defd2a8e8ea",
+    "featured": false,
+    "claps": 151
+  },
+  {
+    "title": "Bacteria and Virus Transmission is Similar to Interplanetary Travel",
+    "reportedAt": "2025-01-06",
+    "authorName": "Microbial Instincts",
+    "tags": "viruses",
+    "link": "https://medium.com/microbial-instincts/bacteria-and-virus-transmission-is-similar-to-interplanetary-travel-37dc06e133b2",
+    "featured": false,
+    "claps": 179
+  },
+  {
+    "title": "The Double Whammy: Sick and Sad",
+    "reportedAt": "2024-12-31",
+    "authorName": "Invisible Illness",
+    "tags": "viruses",
+    "link": "https://medium.com/invisible-illness/the-double-whammy-sick-and-sad-d8e793a9546f",
+    "featured": false,
+    "claps": 346
+  },
+  {
+    "title": "The Nipah Virus and the Case for “One Health”",
+    "reportedAt": "2024-12-22",
+    "authorName": "Microbial Instincts",
+    "tags": "viruses",
+    "link": "https://medium.com/microbial-instincts/the-nipah-virus-and-the-case-for-one-health-deb9e31fd4be",
+    "featured": false,
+    "claps": 719
+  },
+  {
+    "title": "A prevalent respiratory virus, human metapneumovirus (HMPV) infects people of all ages, but it…",
+    "reportedAt": "2024-12-31",
+    "authorName": "Muhammad Ismail",
+    "tags": "viruses",
+    "link": "https://medium.com/@muhammadismail_65735/a-prevalent-respiratory-virus-human-metapneumovirus-hmpv-infects-people-of-all-ages-but-it-d0df8bf208cc",
+    "featured": false,
+    "claps": 393
+  },
+  {
+    "title": "What Is SV40, the Virus Once Found in the Polio Vaccine?",
+    "reportedAt": "2024-12-20",
+    "authorName": "The Quantastic Journal",
+    "tags": "viruses",
+    "link": "https://medium.com/the-quantastic-journal/what-is-sv40-the-virus-once-found-in-the-polio-vaccine-375484a91e0a",
+    "featured": false,
+    "claps": 1700
+  },
+  {
+    "title": "Did You Know…There Are Ice Worms Too?",
+    "reportedAt": "2024-12-03",
+    "authorName": "Did You Know…Short Fun Facts",
+    "tags": "worms",
+    "link": "https://medium.com/did-you-know-short-fun-facts/did-you-know-there-are-ice-worms-too-a35de24a2f8a",
+    "featured": false,
+    "claps": 147
+  },
+  {
+    "title": "Heptamegacanthus:",
+    "reportedAt": "2024-11-26",
+    "authorName": "Be Open - Writers & Readers Pub",
+    "tags": "worms",
+    "link": "https://medium.com/be-open/heptamegacanthus-48458c6d12dc",
+    "featured": false,
+    "claps": 136
+  },
+  {
+    "title": "The Biggest Risk You Can Ever Take Is… Not Taking a Risk",
+    "reportedAt": "2024-12-27",
+    "authorName": "Mr. Plan ₿ Publication",
+    "tags": "risk-assessment",
+    "link": "https://medium.com/mr-plan-publication/the-biggest-risk-you-can-ever-take-is-not-taking-a-risk-2d0dcb80f79d",
+    "featured": false,
+    "claps": 299
+  },
+  {
+    "title": "How to Establish and Operate a Security Office Effectively",
+    "reportedAt": "2024-12-01",
+    "authorName": "Muhammad Mubashir",
+    "tags": "security-services",
+    "link": "https://medium.com/@mubashirmuhamad868/how-to-establish-and-operate-a-security-office-effectively-52881d8977c2",
+    "featured": false,
+    "claps": 222
+  },
+  {
+    "title": "Securities Services Digital Transformation: Strategic Roadmap 2024–2030",
+    "reportedAt": "2024-11-30",
+    "authorName": "Know Your Consulting",
+    "tags": "security-services",
+    "link": "https://medium.com/know-your-consulting/securities-services-digital-transformation-strategic-roadmap-2024-2030-e3bd94d3439a",
+    "featured": false,
+    "claps": 394
+  },
+  {
+    "title": "Fingerprints:",
+    "reportedAt": "2024-11-24",
+    "authorName": "Uzair Khan",
+    "tags": "security-services",
+    "link": "https://medium.com/@uzairjanlives/fingerprints-c1b4e11c9581",
+    "featured": false,
+    "claps": 198
+  },
+  {
+    "title": "Google",
+    "reportedAt": "2024-11-22",
+    "authorName": "Pomi02",
+    "tags": "security-services",
+    "link": "https://medium.com/@pomimahi939/the-importance-of-security-in-a-digital-age-5b99318a638b",
+    "featured": false,
+    "claps": 248
+  }
+]
